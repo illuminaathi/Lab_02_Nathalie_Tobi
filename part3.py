@@ -10,6 +10,7 @@ def print_globs():
     for globi in globs:
         print(globi)
 
+
 #  gets the md5 hashes of all files
 def get_md5(path):
     hasher = hashlib.md5()
