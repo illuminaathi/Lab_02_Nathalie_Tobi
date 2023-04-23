@@ -1,7 +1,7 @@
 # REFERENCES:
 # https://docs.python.org/3/howto/sorting.html#key-functions
 # https://docs.python.org/3/reference/datamodel.html?highlight=__lt__#object.__lt__
-# https://docs.python.org/3/library/stdtypes.html?highlight=list#ranges
+# https://docs.python.org/3/library/stdtypes.html#ranges
 # https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 # https://docs.python.org/3/library/glob.html?highlight=glob#module-glob
 
@@ -21,6 +21,8 @@ list3 = []
 for x in list1:
     if x % 2 == 0:
         list3.append(x)
+# this is the list comprehension equivalent:
+list3 = [y for y in list1 if y % 2 == 0]
 
 
 # 2.2.1 create your own datatype (class)
