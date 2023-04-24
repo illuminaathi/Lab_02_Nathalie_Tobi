@@ -1,7 +1,8 @@
 import glob
 import hashlib
 
-
+globs = glob.iglob("./Downloads/*.txt",
+                   recursive=True)
 
 #  prints all the file names
 def print_globs():
