@@ -38,17 +38,12 @@ class Person:
 
 natha = Person('Nathalie', 21)
 tobi = Person('Tobias', 29)
-#people = [tobi, natha]
+people = [tobi, natha]
 
-a = Person('Anton', 18)
-b = Person('Betina', 20)
-c = Person('Chad', 30)
-d = Person('Dolly', 21)
-people = [a, b, c, d]
 if __name__ == '__main__':
     print(list1)
     print(list2)
     print(list3)
-    print(people[0].name + ", " + people[1].name +', '+ people[2].name)
+    print(people[0].name + ", " + people[1].name)
     people.sort()
-    print(people[0].name + ", " + people[1].name +', '+ people[2].name)
+    print(people[0].name + ", " + people[1].name)
