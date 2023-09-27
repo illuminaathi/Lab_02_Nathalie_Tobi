@@ -1,7 +1,8 @@
 # Lab Report
 
 Nathalie Huppert ([nathalieclaire](https://github.com/nathalieclaire)), Tobias Bayer ([abductedRhino](https://github.com/abductedRhino))  
-[github.com/nathalieclaire/lab_02_small_python_exercises](https://github.com/nathalieclaire/lab_02_small_python_exercises)
+Assignment: [bkleinen.github.io/classes/ss2023/info3/labs/lab-02-python](https://bkleinen.github.io/classes/ss2023/info3/labs/lab-02-python/)  
+Repository: [github.com/nathalieclaire/lab_02_small_python_exercises](https://github.com/nathalieclaire/lab_02_small_python_exercises)  
 
 ## 1 Python Learning with Unit Tests
 
