@@ -1,7 +1,7 @@
 # Lab Report
 
-Nathalie Huppert ([illuminaathi](https://github.com/illuminaathi)), Tobias Bayer ([abductedRhino](https://github.com/abductedRhino))  
-[github.com/illuminaathi/Lab_02_Nathalie_Tobi](https://github.com/illuminaathi/Lab_02_Nathalie_Tobi)
+Nathalie Huppert ([nathalieclaire](https://github.com/nathalieclaire)), Tobias Bayer ([abductedRhino](https://github.com/abductedRhino))  
+[github.com/nathalieclaire/lab_02_small_python_exercises](https://github.com/nathalieclaire/lab_02_small_python_exercises)
 
 ## 1 Python Learning with Unit Tests
 
